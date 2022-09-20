@@ -4,14 +4,14 @@ export default [
       name: 'Nadeeem',
       age: 29,
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
     },
     {
       id: 2,
       name: 'Jiten',
       age: 32,
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
+        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
     },
     {
       id: 3,
@@ -25,7 +25,7 @@ export default [
       name: 'Niikita',
       age: 34,
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
     },
     {
       id: 5,
